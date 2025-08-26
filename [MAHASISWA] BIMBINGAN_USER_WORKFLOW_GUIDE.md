@@ -1,5 +1,8 @@
 # Bimbingan Mahasiswa Use Case Specification
 
+### Actors
+**Mahasiswa** - Pengguna utama yang mengajukan dan mengikuti bimbingan
+
 ## Overview
 
 Dokumen ini menjelaskan use case lengkap untuk sistem bimbingan mahasiswa yang mencakup semua skenario penggunaan, aktor, dan alur kerja yang diperlukan untuk mengelola bimbingan akademik dan non-akademik.

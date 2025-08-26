@@ -1,5 +1,8 @@
 # Bimbingan Mahasiswa Use Case Specification
 
+### Actors
+**Kemahasiswaan** - Administrator yang mengelola sistem dan periode
+
 ## Overview
 
 Dokumen ini menjelaskan use case lengkap untuk sistem bimbingan mahasiswa yang mencakup semua skenario penggunaan, aktor, dan alur kerja yang diperlukan untuk mengelola bimbingan akademik dan non-akademik.
