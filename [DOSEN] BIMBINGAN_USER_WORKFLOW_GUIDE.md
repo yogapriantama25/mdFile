@@ -5,8 +5,17 @@
 
 ## Overview
 
-Dokumen ini menjelaskan use case lengkap untuk sistem bimbingan mahasiswa yang mencakup semua skenario penggunaan, aktor, dan alur kerja yang diperlukan untuk mengelola bimbingan akademik dan non-akademik.
+- UC-BIM-003: Review Request Bimbingan
+- UC-BIM-004: Jadwalkan Bimbingan
+- UC-BIM-005: Bulk Scheduling
+- UC-BIM-006: Lakukan Bimbingan (bersama mahasiswa)
+- UC-BIM-007: Tambah Komentar (bersama mahasiswa)
+- UC-BIM-008: Kelola Template Saran
+- UC-BIM-009: Lihat Dashboard Dosen
 
+***
+
+# Detail Specification
 
 ### UC-BIM-003: Review Request Bimbingan
 
