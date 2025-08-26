@@ -1,6 +1,6 @@
 # Bimbingan Mahasiswa Use Case Specification
 
-### Actors
+### Actor
 **Mahasiswa** - Pengguna utama yang mengajukan dan mengikuti bimbingan
 
 ## Overview

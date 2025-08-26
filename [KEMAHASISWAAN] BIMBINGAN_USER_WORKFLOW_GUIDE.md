@@ -1,6 +1,6 @@
 # Bimbingan Mahasiswa Use Case Specification
 
-### Actors
+### Actor
 **Kemahasiswaan** - Administrator yang mengelola sistem dan periode
 
 ## Overview

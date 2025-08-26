@@ -1,6 +1,6 @@
 # Bimbingan Mahasiswa Use Case Specification
 
-### Actors
+### Actor
 **Dosen** - Pengguna yang memberikan bimbingan dan mengelola jadwal
 
 ## Overview
